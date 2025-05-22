@@ -1,19 +1,19 @@
 # Flexbox To Do Application
 
-Esta es una aplicación de lista de tareas (To Do) construida con HTML y CSS utilizando Flexbox para el diseño.
+This is a To Do list application built with HTML and CSS using Flexbox for layout.
 
-## Características
-- Visualización semanal de tareas
-- Diseño responsivo y moderno
-- Sección de recordatorios
+## Features
+- Weekly task overview
+- Responsive and modern design
+- Reminders section
 
-## Uso
-1. Clona este repositorio.
-2. Abre el archivo `index.html` en tu navegador.
+## Usage
+1. Clone this repository.
+2. Open the `index.html` file in your browser.
 
-## Estructura del proyecto
-- `index.html`: Estructura principal de la aplicación.
-- `style.css`: Estilos y diseño con Flexbox.
+## Project Structure
+- `index.html`: Main structure of the application.
+- `style.css`: Styles and Flexbox layout.
 
-## Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
